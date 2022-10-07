@@ -3,5 +3,4 @@ Implementation of a Web Scraper for collecting huge amount of data from websites
 
 Libraries used -
 
-Beautiful Soup - Used for Parsing HTML / XML files also creates parse trees
-Pandas - Library used for data manipulation and analysis
+Beautiful Soup - Used for Parsing HTML / XML files also creates parse trees,Pandas - Library used for data manipulation and analysis
